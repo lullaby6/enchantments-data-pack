@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 71,
+        "description": [
+            {
+                "text": "Undying Enchantment",
+                "color": "#FFD800"
+            },
+            {
+                "text": " - \nBy ",
+                "color": "gray"
+            },
+            {
+                "text": "by github.com/lullaby6",
+                "color": "#683edd"
+            }
+        ]
+    }
+}
