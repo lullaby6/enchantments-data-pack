@@ -1,0 +1,3 @@
+execute if predicate veinminer_enchantment:veinminer run function veinminer_enchantment:veinminer/holding
+
+function veinminer_enchantment:player/reset

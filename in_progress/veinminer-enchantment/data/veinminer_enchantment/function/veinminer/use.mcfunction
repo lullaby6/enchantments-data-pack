@@ -1,0 +1,2 @@
+execute if score @s veinminer_enchantment.player.mine.diamond_ore matches 1.. at @n[type=item,nbt={Age:0s}] run function veinminer_enchantment:veinminer/mine {"block":"diamond_ore","type":"stone"}
+execute if score @s veinminer_enchantment.player.mine.iron_ore matches 1.. at @n[type=item,nbt={Age:0s}] run function veinminer_enchantment:veinminer/mine {"block":"iron_ore","type":"stone"}

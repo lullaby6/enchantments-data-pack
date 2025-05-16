@@ -1,0 +1,10 @@
+{
+    "criteria": {
+      "requirements": {
+        "trigger": "minecraft:item_durability_changed"
+      }
+    },
+    "rewards": {
+      "function": "magnetic_enchantment:durability"
+    }
+}

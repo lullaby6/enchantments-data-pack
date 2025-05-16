@@ -1,0 +1,10 @@
+{
+    "criteria": {
+      "requirements": {
+        "trigger": "minecraft:item_used_on_block"
+      }
+    },
+    "rewards": {
+      "function": "magnetic_enchantment:item_used_on_block"
+    }
+}
