@@ -1,0 +1,9 @@
+{
+    "values": [
+        "smelting_enchantment:tick",
+        "soulbound_enchantment:tick",
+        "timber_enchantment:tick",
+        "true_shot_enchantment:tick",
+        "veinminer_enchantment:tick"
+    ]
+}
