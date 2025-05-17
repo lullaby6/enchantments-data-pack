@@ -3,7 +3,7 @@
         "pack_format": 71,
         "description": [
             {
-                "text": "Attack Speed",
+                "text": "Attack Speed Enchantment",
                 "color": "#FF5555"
             },
             {
@@ -11,7 +11,7 @@
                 "color": "gray"
             },
             {
-                "text": "by github.com/lullaby6",
+                "text": "github.com/lullaby6",
                 "color": "#683edd"
             }
         ]

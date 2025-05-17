@@ -4,14 +4,14 @@
         "description": [
             {
                 "text": "Leaping Enchantment",
-                "color": "#FF5555"
+                "color": "#55FF55"
             },
             {
                 "text": " - \nBy ",
                 "color": "gray"
             },
             {
-                "text": "by github.com/lullaby6",
+                "text": "github.com/lullaby6",
                 "color": "#683edd"
             }
         ]
