@@ -13,6 +13,6 @@
   "slots": [
     "mainhand"
   ],
-  "supported_items": "#minecraft:pickaxes",
+  "supported_items": "#minecraft:enchantable/mining",
   "weight": 2
 }

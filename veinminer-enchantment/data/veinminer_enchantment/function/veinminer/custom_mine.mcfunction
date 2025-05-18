@@ -5,5 +5,6 @@ $particle minecraft:block{block_state:$(block)} ~ ~.35 ~ .35 .35 .35 1 40
 
 setblock ~ ~ ~ air
 
-execute if predicate veinminer_enchantment:smelting run function veinminer_enchantment:veinminer/smelting
+function veinminer_enchantment:veinminer/smelting/custom_mine
+function veinminer_enchantment:veinminer/magnetic
 execute if predicate veinminer_enchantment:fortune summon minecraft:experience_orb run data modify entity @s Value set from entity @n[type=minecraft:experience_orb] Value

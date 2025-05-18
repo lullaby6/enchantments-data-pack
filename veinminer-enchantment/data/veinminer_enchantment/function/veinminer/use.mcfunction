@@ -16,7 +16,6 @@ execute if score @s veinminer_enchantment.player.mine.deepslate_emerald_ore matc
 execute if score @s veinminer_enchantment.player.mine.deepslate_lapis_ore matches 1.. at @n[type=item,nbt={Age:0s}] run return run function veinminer_enchantment:veinminer/mine {"block":"deepslate_lapis_ore","type":"deepslate"}
 execute if score @s veinminer_enchantment.player.mine.deepslate_diamond_ore matches 1.. at @n[type=item,nbt={Age:0s}] run return run function veinminer_enchantment:veinminer/mine {"block":"deepslate_diamond_ore","type":"deepslate"}
 
-
 execute if score @s veinminer_enchantment.player.mine.nether_gold_ore matches 1.. at @n[type=item,nbt={Age:0s}] run return run function veinminer_enchantment:veinminer/mine {"block":"nether_gold_ore","type":"nether_ore"}
 execute if score @s veinminer_enchantment.player.mine.nether_quartz_ore matches 1.. at @n[type=item,nbt={Age:0s}] run return run function veinminer_enchantment:veinminer/mine {"block":"nether_quartz_ore","type":"nether_ore"}
 
