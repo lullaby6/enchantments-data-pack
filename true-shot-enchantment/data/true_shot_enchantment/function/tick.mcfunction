@@ -1,1 +1,1 @@
-execute as @e[type=arrow,tag=true_shot_enchantment.arrrow] at @s positioned ~ 330 ~ if entity @s[distance=..10] run kill @s
+execute as @e[tag=true_shot_enchantment.arrow] at @s run function true_shot_enchantment:arrow/tick
